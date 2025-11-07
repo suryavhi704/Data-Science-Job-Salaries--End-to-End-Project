@@ -49,7 +49,7 @@ The interactive **Power BI Dashboard** provides:
 - Employment type breakdown
 - Dynamic visuals for **real-time insights**
 
-![Dashboard Preview]([./Screenshot_2025-11-05_125218.png](https://github.com/suryavhi704/Data-Science-Job-Salaries--End-to-End-Project/blob/main/Screenshot%202025-11-05%20125218.png?raw=true))
+![Dashboard Preview](https://github.com/suryavhi704/Data-Science-Job-Salaries--End-to-End-Project/blob/main/Screenshot%202025-11-05%20125218.png?raw=true)
 
 ---
 
